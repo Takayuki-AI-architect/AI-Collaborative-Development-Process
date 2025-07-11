@@ -16,3 +16,7 @@ https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
 
 連絡先：
 X：@Takayuki_AI
+
+2025/7/12追記
+Grok4を使ってみました。
+どのような形でプロセスに組み込めるか考えていきます。
