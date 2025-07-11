@@ -11,3 +11,6 @@ AI協業型開発プロセス
 https://creativecommons.org/licenses/by-sa/4.0/legalcode.en
 
 フィードバックをいただきたいので、issueをお願いします。
+
+連絡先：
+X：@Takayuki_AI
